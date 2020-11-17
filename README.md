@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a game & software seveloper 👨‍💻 who is passionate about web development, IoT, and retro consoles. I'm also a casual guitar player and internet surfer 🏄‍♂️.
+I'm a game & software seveloper 👨‍💻 who is passionate about web development, IoT, and retro consoles. I'm also a casual guitar player and a internet surfer 🏄‍♂️.
 
 
 
